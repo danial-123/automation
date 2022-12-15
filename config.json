@@ -1,0 +1,36 @@
+{
+  "production": {
+    "pulseUrl": "https://pulse.versify.app/",
+    "phoenixUrl": "https://phoenix.versify.app/"
+  },
+  "alpha": {
+    "pulseUrl": "https://pulse.alpha.versify.app/",
+    "phoenixUrl": "https://phoenix.alpha.versify.app/"
+  },
+  "restaurant-production": {
+    "baseUrl": "https://web.chikoo.app/dashboard",
+    "merchantSlug": "diamonddine",
+    "username": "+923362085018",
+    "pin": "0000"
+  },
+  "restaurant-alpha": {
+    "baseUrl": "https://web.alpha.chikoo.app/dashboard",
+    "merchantSlug": "foodpoint",
+    "username": "+923349377762",
+    "pin": "0000"
+  },
+  "store-production": {
+    "baseUrl": "https://chikoo-pos.web.app/?userInfo=U2FsdGVkX1/wiRIKeeu60efhJ+tdxSuTt58EB3FLii+9mQTHKZQ+lgkFXwOK2k+w4H86nR+cAsCkCxmQDa9pEQ==",
+    "merchantSlug": "diamonddine",
+    "username": "+923362085018",
+    "pin": "0000",
+    "phone": "03197826342"
+  },
+  "store-alpha": {
+    "baseUrl": "https://web.alpha.chikoo.app/dashboard",
+    "merchantSlug": "danialshop",
+    "username": "+923100103878",
+    "pin": "0000",
+    "phone": "03197826342"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  
+  "userDetails": {
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoiMTVmMmJiNWYtMjRjZC00MjVmLThkODEtOTdjMGUwN2IwNzI1In0sImlhdCI6MTY3MDgyMDg0NSwiZXhwIjoxNjcwOTA3MjQ1fQ.HmN5li2o1hVhGF73FIty190gL1HxSnX-Xosskrrr6jg",    
+    "user": {
+      "bvid": "15f2bb5f-24cd-425f-8d81-97c0e07b0725",
+      "firstName": "Syed Danial Hussain",
+      "lastName": "",
+      "username": "+923362085018",
+      "role": "Owner",
+      "userMerchant": {
+        "bvid": "3cdd0d61-3132-4618-a1c4-bfd5bbe88e5b",
+        "storeName": "Diamond Dine",
+        "slug": "diamonddine",
+        "hasDomain": false,
+        "__typename": "Merchant"
+      },
+      "userMaster": null,
+      "__typename": "User"
+    }
+  },
+  "userDetail":{
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoiMGVjNzkzNWQtMjQ3ZC00ZDc2LWE4NGEtZjk3MTM5YWM1MDJiIn0sImlhdCI6MTY2NjY4MTExMiwiZXhwIjoxNjY2NzY3NTEyfQ.NDAFhFCy8fXbVa8atnngztpysK5uMdeTRp8y7FlAltA",
+    "user":{
+      "bvid":"0ec7935d-247d-4d76-a84a-f97139ac502b",
+      "firstName":"Nimra",
+      "lastName":"Shafiq",
+      "username":"+923349377762",
+      "role":"Owner",
+      "userMerchant":{
+        "bvid":"70a7ac32-e5ae-4830-816a-0c24f9d4857f",
+        "storeName":"Food point",
+        "slug":"foodpoint",
+        "hasDomain":false,
+        "__typename":"Merchant"
+        },
+        "userMaster":null,
+        "__typename":"User"
+        ,
+        "deviceId":"ci1z1fxtWyqRdbH3c4T54J:APA91bEqHtEkmY3r5zj-cdah7H12nQPddqDruLq8UMBaPrfA5iejoeh4472crpSWLCRmYejd90_A1tW9UFXLM3A3D8mVRxWE3bmnDG-jDor642Ypz71SP1-b48wuHdsBc9d9T-yzz9jj"}}
+  }
+

@@ -1,0 +1,41 @@
+{
+    "product" : {
+        "name": "cricket bat",
+        "description":"this is the testing product",
+        "price":"1000",
+        "discount":"200",
+        "cost":"100",
+        "quantity":"80",
+        "barcode":"xyz-123",
+        "updatebarcode":"xyz-123",
+        "Updateproduct": "cricket bat ball",
+        "Updatedescription":"this is the updated testing product",
+        "Updateprice":"2000",
+        "Updatediscount":"600",
+        "Updatecost":"100",
+        "Updatequantity":"180",
+        "variantbarcode":"xyhgx-123"
+    },
+    "variant": {
+        "variantOption1": "Color",
+        "variantOption2": "Size",
+        "OptionValueOneof1":"yellow",
+        "OptionValueTwoof1":"black",
+        "OptionValueThreeof1":"red",
+        "OptionValueOneof2":"small",
+        "OptionValueTwoof2":"large",
+        "Price1":"50",
+        "DisPrice1":"45",
+        "Price2":"55",
+        "DisPrice2":"44",
+        "Price3":"60",
+        "DisPrice3":"45",
+        "Price4":"70",
+        "DisPrice4":"35",
+        "Price5":"150",
+        "DisPrice5":"95",
+        "Price6":"78",
+        "DisPrice6":"60"
+    }
+
+}
